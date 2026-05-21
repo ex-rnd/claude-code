@@ -1,0 +1,27 @@
+body {
+  background-color: #000;
+  font-family: 'Orbitron', sans-serif;
+  color: #f0f0f0;
+}
+
+h1 {
+  background-color: #ff9966;
+  padding: 15px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+a {
+  background-color: #6699ff;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+  margin: 5px;
+  display: inline-block;
+}
+
+a:hover {
+  background-color: #ffcc00;
+  color: #000;
+}
